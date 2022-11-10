@@ -21,6 +21,8 @@
     
 - Installer mysql: sudo apt install mysql-server
 
+- Installer xampp : https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu + https://sourceforge.net/projects/xampp/
+
 - Installer vscode
 
 - Configurer git:
