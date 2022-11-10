@@ -2,7 +2,8 @@
 ## Etatpe à suivre
 - Installer Ubuntu sur VM
 
-- Installer Bambo et suivre guide 
+- Installer Bambo et suivre guide https://confluence.atlassian.com/bamboo/installing-bamboo-on-linux-289276792.html
+    - ./bin/start-bamboo.sh
 
 - Installer java :
     - sudo apt install default-jdk
