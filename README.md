@@ -2,7 +2,7 @@
 ## Etatpe à suivre
 - Installer Ubuntu sur VM
 
--Installer Bambo et suivre guide 
+- Installer Bambo et suivre guide 
 
 - Installer java :
     - sudo apt install default-jdk
