@@ -9,7 +9,7 @@
     - sudo apt install default-jdk
     - sudo apt install default-jre
 
-- Lancer bamboo avec la commande
+- Lancer bamboo avec la commande ./bin/start-bamboo.sh
 
 - Lancer le site: http://localhost:8085
 
