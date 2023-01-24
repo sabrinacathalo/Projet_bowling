@@ -19,6 +19,13 @@
     - Sélectionner new licence + bamboo
     - Orga: Bamboo
     - Server ID: celui de http://localhost:8085
+    - Suivre les indications
+    - Choisir H2 et créer un nouveau bamboo home
+    - Installer un agent
+    - Créer un nouveau projet
+    - Aller dans parametre -> Link repositorie
+    - Choisir github
+    - Gennerer un topken https://github.com/settings/tokens?type=beta
 
 - Installer vscode
 
