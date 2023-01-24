@@ -40,4 +40,6 @@
 
 - Cloner le projet: https://github.com/sabrinacathalo/Projet_bowling
 
-- TUTO: https://www.youtube.com/watch?v=7KuNy9CD1lA
+- TUTO: 
+    - https://www.youtube.com/watch?v=7KuNy9CD1lA
+    - Spec: https://docs.atlassian.com/bamboo-specs-docs/7.2.3/specs.html?java#yaml
