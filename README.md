@@ -19,10 +19,6 @@
     - Sélectionner new licence + bamboo
     - Orga: Bamboo
     - Server ID: celui de http://localhost:8085
-    
-- Installer postgreSQL: https://www.postgresql.org/download/linux/ubuntu/
-
-- Installer xampp : https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu + https://sourceforge.net/projects/xampp/
 
 - Installer vscode
 
