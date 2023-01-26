@@ -1,0 +1,22 @@
+version: 2
+plan:
+  project-key: BOW
+  name: Bowling Project
+  key: BOW
+
+stages:
+  - First Build Stage:
+      jobs: 
+        - Build 
+  - First Test Stage:
+      jobs: 
+        - Test
+
+Build:
+  tasks:
+    - script:
+        - echo 'Hello world'
+        
+Test:
+  tasks:
+    - script: BowlingGame.Test/UnitTest1.cs
