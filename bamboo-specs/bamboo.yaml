@@ -5,10 +5,10 @@ plan:
   key: BOW
 
 stages:
-  - First Build Stage:
+  - Build Stage:
       jobs: 
         - Build 
-  - First Test Stage:
+  - Test Stage:
       jobs: 
         - Test
 
