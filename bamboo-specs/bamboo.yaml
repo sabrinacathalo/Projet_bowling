@@ -19,7 +19,4 @@ Build:
         
 Test:
   tasks:
-    - script: |
-      #!/bin/bash
-      chmod +x BowlingGame.Test/UnitTest1.cs
     - script: BowlingGame.Test/UnitTest1.cs
