@@ -19,5 +19,4 @@ Build:
         
 Test:
   tasks:
-    - interpreter: C#
     - script: BowlingGame.Test/UnitTest1.cs
